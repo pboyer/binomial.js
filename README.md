@@ -1,0 +1,1 @@
+binomial.js is a simple module for creating binomial coefficients.  It includes memoization by default.  

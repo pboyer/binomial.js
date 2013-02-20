@@ -1,9 +1,25 @@
 {
   "name": "binomial",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "author": "pboyer <peter.b.boyer@gmail.com>",
+  "description": "A simple binomial coefficient generator with memoization.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pboyer/binomial.js.git"
+  },
+  "keywords": [
+    "binomial",
+    "math",
+    "coefficient",
+    "choose"
+  ],
   "dependencies": {
-    "benchmark" : "*"
-    , "mocha" : "*"
-    , "should" : "*"
-  }
+  },
+  "devDependencies": {
+    "benchmark": "*",
+    "should": "*",
+    "binomial": "*"
+  },
+  "license": "MIT"
 }
+

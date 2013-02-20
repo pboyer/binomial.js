@@ -1,6 +1,6 @@
 {
   "name": "binomial",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "pboyer <peter.b.boyer@gmail.com>",
   "description": "A simple binomial coefficient generator with memoization.",
   "repository": {

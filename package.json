@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "benchmark": "*",
+    "mocha" : "*",
     "should": "*",
     "binomial": "*"
   },
